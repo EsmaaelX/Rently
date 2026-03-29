@@ -1,0 +1,9 @@
+[2026-03-29 12:55:47] [FAILED] To: esmaael.esmaael@gmail.com | Subject: Rently — Verify Your Email | CODE: 521433
+[2026-03-29 12:56:31] [FAILED] To: esmaael.esmaael@gmail.com | Subject: Rently — Verify Your Email | CODE: 140388
+[2026-03-29 13:01:30] [FAILED] To: test@test.com | Subject: Rently — Verify Your Email | CODE: 891951
+[2026-03-29 16:31:18] [FAILED] To: esmaael.esmaael@gmail.com | Subject: Rently — Verify Your Email | CODE: 791693
+[2026-03-29 17:30:34] [FAILED] To: test123@test.com | Subject: Rently — Verify Your Email | CODE: 504837
+[2026-03-29 17:43:35] [FAILED] To: esmaael.esmaael@gmail.com | Subject: Rently — Verify Your Email | CODE: 684316
+[2026-03-29 17:58:16] [FAILED] To: test@gmail.com | Subject: Rently — Verify Your Email | CODE: 567298
+[2026-03-29 18:02:18] [FAILED] To: test2@gmail.com | Subject: Rently — Verify Your Email | CODE: 582607
+[2026-03-29 18:35:41] [FAILED] To: david@rently.com | Subject: Rently — Verify Your Email | CODE: 375653
